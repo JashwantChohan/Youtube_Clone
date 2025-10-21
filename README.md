@@ -1,16 +1,38 @@
-# React + Vite
+🎬 YouTube Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive YouTube Clone built using React.
+This project replicates the core UI and functionality of YouTube — including video listing, video playback, and channel details — all powered by API data.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎥 Fetch and display real-time video data using APIs
 
-## React Compiler
+📱 Fully responsive design (works on all devices)
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🌙 Clean, modern UI with Tailwind CSS
 
-## Expanding the ESLint configuration
+🔍 Search functionality
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧭 Dynamic video routing (each video has its own page)
+
+⚡ Fast performance and smooth transitions
+
+🧰 Tech Stack
+
+React.js – Frontend framework
+
+React Router – Routing and navigation
+
+YouTube Data API (v3) – Fetching videos and details
+
+Vite – Fast build tool
+
+🧠 What I Learned
+
+How to work with APIs and handle dynamic data
+
+Better state and component management in React
+
+Debugging and using environment variables securely
+
+Responsive design techniques 
